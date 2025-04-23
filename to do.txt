@@ -2,3 +2,6 @@ name: sam
 regno: 87
 dept: MCA
 sub: ml
+
+
+dob: 2003
